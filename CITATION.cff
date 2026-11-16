@@ -1,0 +1,38 @@
+# CITATION.cff for the MODID research unit.
+#
+# Template for MODID repositories: copy this file into the root of your repository and adapt
+# title, authors, version, date-released and repository-code. If there is a paper about the
+# software, add it under preferred-citation (see the example at the end of this file).
+# Validate with: cffconvert --validate -i CITATION.cff
+# Format reference: https://citation-file-format.github.io/
+#
+# Funding (CFF has no field for it, keep it in the README):
+# Funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – FOR 5911.
+
+cff-version: 1.2.0
+message: "If you use results of the MODID research unit, please cite it as below."
+type: software
+title: "MODID – Attack-proof development of cyber-physical systems using Model-based Defense in Depth"
+authors:
+  - name: "MODID – DFG Research Unit at Paderborn University"
+    website: "https://go.upb.de/modid"
+url: "https://go.upb.de/modid"
+repository-code: "https://github.com/MODID-UPB"
+keywords:
+  - cyber-physical systems
+  - security by design
+  - defense in depth
+  - security metrics
+  - model-based engineering
+
+# Example for a repository with a paper (remove the leading "# " to use it):
+# preferred-citation:
+#   type: conference-paper
+#   title: "<Paper title>"
+#   authors:
+#     - family-names: "<Last name>"
+#       given-names: "<First name>"
+#       orcid: "https://orcid.org/0000-0000-0000-0000"
+#   collection-title: "<Proceedings title>"
+#   doi: "<10.xxxx/xxxxx>"
+#   year: 2027
