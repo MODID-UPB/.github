@@ -121,4 +121,4 @@ If something sensitive was committed by accident, contact an organization owner 
 Repositories connected to Zenodo receive a DOI for every GitHub release. Ask an owner to enable the connection for your repository ([tutorial](https://youtu.be/HZ6m8oxwvig?si=dArSWDiiFGqPixrD)).
 
 ## Questions
-Ask in the MODID Teams channel "GitHub / Software" or open an issue.
+Ask in the MODID Teams channel "GitHub" or open an issue.
